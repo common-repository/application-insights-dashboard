@@ -1,0 +1,37 @@
+table.options{
+	padding-left:10px;
+	width:100%;
+}
+
+.options td{
+	padding:0px 5px 5px 5px;
+}
+
+td.title, td.info{
+	width:130px;
+	padding-left:20px;
+}
+
+td.title-select{
+	width:300px;	
+}
+
+td.info{
+	padding-bottom:15px;
+}
+
+td.title label{
+	font-weight:bold;
+}
+
+.appinsights-spinner {
+	margin: 5px 100px 2px;
+}
+
+#appinsights_query {
+	width: 130px;
+}
+
+#appinsights_period {
+	width: 130px;
+}
